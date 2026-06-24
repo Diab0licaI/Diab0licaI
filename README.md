@@ -70,14 +70,11 @@ Full-stack YouTube-style video platform with auth, notifications, and watch hist
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Skills Board
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Diab0licaI&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diab0licaI&layout=compact&theme=midnight-purple&hide_border=true" width="40%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diab0licaI&theme=midnight-purple&hide_border=true" width="60%" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,typescript,javascript,tailwind,html,css,java,git,github,vercel,figma&theme=dark" />
 
 </div>
 
