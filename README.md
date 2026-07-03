@@ -16,7 +16,6 @@
 
 - 🎓 Final-year **B.Tech Electronics and Communication Engineering** student at **NIT Arunachal Pradesh** (Class of 2026)
 - 💻 Focused on **full-stack web development** — MERN stack, Next.js, and TypeScript
-- 🔧 Completed a **Frontend Development Internship** at **CodeAlpha**
 - 🌱 Sharpening my **Data Structures & Algorithms** skills with Java
 - 📫 Reach me at **work.dipukumar@gmail.com**
 
