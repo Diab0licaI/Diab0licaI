@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipu-kumar-rajak-b24b482b7/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.dipukumar@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Diab0licaI&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -74,14 +73,16 @@ Full-stack YouTube-style video platform with auth, notifications, and watch hist
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Currently
+
+- 🏢 Building full-stack features as an intern at **Tech Tomorrow**
+- 🧠 Practicing **Data Structures & Algorithms** in Java (150+ problems solved on LeetCode & GFG)
+- 🔎 Looking for **junior full-stack / frontend** opportunities
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Diab0licaI&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diab0licaI&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diab0licaI&theme=tokyonight&hide_border=true" />
+[![Followers](https://img.shields.io/github/followers/Diab0licaI?style=for-the-badge&logo=github&label=Followers)](https://github.com/Diab0licaI?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Diab0licaI&query=$.public_repos&style=for-the-badge&logo=github&label=Public%20Repos)](https://github.com/Diab0licaI?tab=repositories)
 
 </div>
 
